@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+}
+
+.card {
+    margin-bottom: 20px;
+    border: none;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 16px;
+}
+
+
+.card {
+    margin-bottom: 20px;
+    border: 2px solid #007BFF; /* Border color (blue in this example) */
+    border-radius: 10px;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 16px;
+}
+
+
+
